@@ -1,0 +1,23 @@
+body {
+    background-color: #013442;
+    color: #ffffff;
+  }
+  
+  .code-editor {
+    background: #013442;
+    color: #ffffff;
+  }
+  
+  button {
+    background-color: #139e3d;
+    color: #ffffff;
+  }
+  
+  button:hover {
+    background-color: #0d7b2a;
+  }
+  
+  .AppBar {
+    background-color: #013442;
+  }
+  
